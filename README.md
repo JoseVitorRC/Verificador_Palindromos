@@ -17,3 +17,5 @@ Python 3.x
 # Motivo
 
 Este script foi desenvolvido com o intuito de estudar e práticar a manipulação de strings e tratamento de caracteres em Python.
+
+# Bebam água
